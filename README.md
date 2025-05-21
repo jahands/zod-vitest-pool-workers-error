@@ -2,9 +2,11 @@
 
 To repro:
 
+Note: Requires pnpm v10+
+
 ```sh
-npm i
-npm run test
+pnpm i
+pnpm test
 ```
 
 This results in this error:
