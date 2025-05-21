@@ -1,0 +1,25 @@
+{
+  "name": "zod-vitest-pool-workers-error",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahands/zod-vitest-pool-workers-error.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jahands/zod-vitest-pool-workers-error/issues"
+  },
+  "homepage": "https://github.com/jahands/zod-vitest-pool-workers-error#readme",
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "0.8.31",
+    "vitest": "3.1.4"
+  },
+  "dependencies": {
+    "zod": "3.25.16"
+  }
+}
